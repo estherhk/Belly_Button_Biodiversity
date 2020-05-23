@@ -25,7 +25,11 @@ To use test subject ID No 940 as an example, when selected from the dropdown men
 
 <img width=“500” alt=“” src="https://github.com/estherhk/Belly_Button_Biodiversity/blob/master/images/demographic.png"> <img width=“500” alt=“” src="https://github.com/estherhk/Belly_Button_Biodiversity/blob/master/images/dem_panel.png"> 
 
-The belly button bar chart shows that OTU 1167 is the OTU that has the highest bacteria sample value in her belly button.  Washing frequency gauge chart increased to show that she washes her belly button two times a week.  The bubble chart displays all the bacterias that are in her belly button and the size of the marker increase depending on the amount there is.   
+### Bubble Chart
+The belly button bar chart shows that OTU 1167 is the OTU that has the highest bacteria sample value in her belly button. When hovering over a point, it also displays the information of the type of bacteria and its OTU ID.  
+<img width=“500” alt=“” src="https://github.com/estherhk/Belly_Button_Biodiversity/blob/master/images/bubble_chart.png"> 
+
+Washing frequency gauge chart increased to show that she washes her belly button two times a week.  The bubble chart displays all the bacterias that are in her belly button and the size of the marker increase depending on the amount there is.   
 
 ## Summary
 Using Javascript, data visualization was created to help determine which bacteria is most commonly in humans belly button and also tastes like beef. 
