@@ -1,4 +1,4 @@
-# Belly Button Biodiversity
+# Belly Button Biodiversity 
 
 ## Project Overview
 Data visualization is accessible by using JavaScript to render data about bacteria that tastes like beef.  Data is available per test subjects ID and shows graphs that visualize information such as: 1) bar chart: Top 10 OTUs(bacteria), 2) gauge chart: Belly Button Washing Frequency, and 3) bubble chart: Belly Button Bacterias.
