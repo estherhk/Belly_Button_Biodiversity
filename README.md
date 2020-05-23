@@ -15,6 +15,7 @@ Data visualization is accessible by using JavaScript to render data about bacter
 - HTML
 
 ## Website Product
+
 <img width=“500” alt=“” src="https://github.com/estherhk/Belly_Button_Biodiversity/blob/master/images/html.png"> 
 
 ## Charts
